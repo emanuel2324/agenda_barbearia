@@ -146,13 +146,6 @@ Os dados persistem entre recarregamentos da página e são sincronizados automat
 - O tema de cores foi customizado para refletir a cultura afro
 - Serviços padrão são criados automaticamente na primeira execução
 
-## 🎓 Disciplina
-
-**Frameworks Modernos para Desenvolvimento de Sistemas**  
-UNEMAT - Tecnologia em Análise e Desenvolvimento de Sistemas  
-Avaliação 1 - Valor: 10,0 pontos  
-Data de Entrega: 05/10/2025
-
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins educacionais.
