@@ -138,12 +138,6 @@ Os dados são armazenados no **localStorage** do navegador nas seguintes chaves:
 
 Os dados persistem entre recarregamentos da página e são sincronizados automaticamente após cada operação de criação, edição ou exclusão.
 
-## 👥 Integrantes do Grupo
-
-- **[Seu Nome Completo]** - Matrícula: [Sua Matrícula]
-- **[Nome do Integrante 2]** - Matrícula: [Matrícula 2] (opcional)
-- **[Nome do Integrante 3]** - Matrícula: [Matrícula 3] (opcional)
-
 ## 📝 Observações
 
 - A aplicação é totalmente responsiva e funciona em dispositivos móveis, tablets e desktops
