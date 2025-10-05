@@ -1,0 +1,18 @@
+/* Estilos mínimos do projeto (arquivo esperado por main.ts) */
+:root{
+  --font-family-sans: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+html,body,#app{
+  height:100%;
+  margin:0;
+}
+
+body{
+  font-family: var(--font-family-sans);
+  background-color: #FDF6E3; /* bege claro do tema */
+  color: #222;
+}
+
+/* Pequena ajuda visual para debugging */
+.app-root-debug { outline: 1px dashed rgba(0,0,0,0.04); }
